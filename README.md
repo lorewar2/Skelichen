@@ -2,6 +2,11 @@
 
 Project for auburn hackathon
 
-Put openpose demo in directory
+Put the openpose demo in directory
 
-Change path names
+Go to openpose directory
+
+Change the path names
+
+Run
+
