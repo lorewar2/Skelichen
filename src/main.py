@@ -63,9 +63,7 @@ def main():
 
     # save the pose images in a seperate folder
     print("Image Processing")
-    #save_pose_images (pose_images)
-    # save all the images in a different folder
-    #save_all_images (image_list)
+    save_pose_images (pose_images)
 
     # run those images through the ai model
     # mark the predicted pose in the images
