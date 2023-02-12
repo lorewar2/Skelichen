@@ -1,5 +1,12 @@
 # Skelichen
 
-Put openpose demo in directory
+Project for auburn hackathon
 
-Change path names
+Put the openpose demo in directory
+
+Go to openpose directory
+
+Change the path names
+
+Run
+
