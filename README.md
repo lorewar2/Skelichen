@@ -1,5 +1,5 @@
 # Skelichen
 
-Put openpose demo in the folder
+Put openpose demo in directory
 
 Change path names
