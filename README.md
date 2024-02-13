@@ -1,6 +1,6 @@
 # Skelichen
 
-Project for auburn hackathon
+Project for auburn hackathon 2023
 
 Put the openpose demo in directory
 
